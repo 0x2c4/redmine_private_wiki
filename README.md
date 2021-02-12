@@ -27,7 +27,7 @@ This plugin is compatible with Redmine 4.1.x
 This plugin is licensed under the MIT license.
 
 ## Creator:
-Original Creator: f0y, Link of the original plugin : !(f0y)[https://github.com/f0y/redmine_private_wiki]
+Original Creator: f0y, Link of the original plugin : https://github.com/f0y/redmine_private_wiki. 
 Adjusted by: 0x2c4 @ 2020
 
 
